@@ -24,3 +24,9 @@ int main(){
 
     return 0;
 }
+// time complexity
+// best case: O(1)
+// Worst case: O(n)
+// average case: all case/ no of case
+//             = n(n+1)/2
+//             = O(n+1/2)
